@@ -1,0 +1,4 @@
+repository "Shader@wechat_os_qy07sri0jbb-fho1c-5ijrgfy@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
