@@ -210,8 +210,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalRotation: {x: 0.9447099, y: -0.15168418, z: 0.11043058, w: 0.26892418}
+  m_LocalPosition: {x: -3.39, y: 4.61, z: -7.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -336,7 +336,7 @@ GameObject:
   - component: {fileID: 1485135705}
   - component: {fileID: 1485135704}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: SphereTest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -383,7 +383,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 560ab9e8e88044b43aa2322a2cf5ee7f, type: 2}
+  - {fileID: 2100000, guid: b87d1e5d1e4f9534ba08022cf86c3493, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -441,7 +441,7 @@ GameObject:
   - component: {fileID: 1766069366}
   - component: {fileID: 1766069365}
   m_Layer: 0
-  m_Name: ShaderTest
+  m_Name: CubeTest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
