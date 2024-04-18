@@ -37,6 +37,7 @@ Shader "Unlit/Chapter6-DiffuseVertexLevel"
                 fixed3 color : TEXCOORD0;
             };
 
+            // 顶点着色器进行漫反射着色
             v2f vert(a2v v)
             {
                 v2f o;
