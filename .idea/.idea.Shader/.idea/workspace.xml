@@ -5,19 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/DiffusePixelLevel.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/DiffusePixelLevel.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/HalfLambert.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/HalfLambert.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chaper6-HalfLambert.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chaper6-HalfLambert.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffusePixelLevel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffusePixelLevel.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimelineSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/SpecularVetexLevelMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/SpecularVetexLevelMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-HalfLambert.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-HalfLambert.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularPixelLevel.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularPixelLevel.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularVertexLevel.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularVertexLevel.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffuseVertexLevel.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffuseVertexLevel.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chaper6-HalfLambert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chaper6-HalfLambert.shader.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +143,7 @@
       <workItem from="1713353863329" duration="3033000" />
       <workItem from="1713434659280" duration="9000" />
       <workItem from="1713434696286" duration="1941000" />
+      <workItem from="1713518163474" duration="4700000" />
     </task>
     <servers />
   </component>
