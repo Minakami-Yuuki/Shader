@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/NormalMapWorldSpaceMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/NormalMapWorldSpaceMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapWorldSpace.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapWorldSpace.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-RampTexture.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-RampTexture.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-MaskTexture.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-MaskTexture.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Specular.tga.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapTangentSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapTangentSpace.shader" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +140,8 @@
       <workItem from="1713434696286" duration="1941000" />
       <workItem from="1713518163474" duration="4860000" />
       <workItem from="1713777763289" duration="9680000" />
-      <workItem from="1713947686245" duration="5246000" />
+      <workItem from="1713947686245" duration="5667000" />
+      <workItem from="1713957066153" duration="2740000" />
     </task>
     <servers />
   </component>
