@@ -5,59 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/BlinnPhongInnerFuncMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/BlinnPhongInnerFuncMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/BlinnPhongMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/BlinnPhongMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/NormalMapTangentSpaceMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/NormalMapTangentSpaceMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/SingleTextureMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/SingleTextureMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter5.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter5/Chapter5-SimpleShader.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter5/Chapter5-SimpleShader.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-BlinnPhong.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-BlinnPhong.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-BlinnPhongInnerFunc.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-BlinnPhongInnerFunc.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-DiffusePixelLevel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-DiffusePixelLevel.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-DiffuseVertexLevel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-DiffuseVertexLevel.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-HalfLambert.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-HalfLambert.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-SpecularPixelLevel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-SpecularPixelLevel.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-SpecularVertexLevel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter6/Chapter6-SpecularVertexLevel.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapTangentSpace.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapTangentSpace.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-SingleTexture.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-SingleTexture.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Diffuse.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Diffuse.JPG.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Normal.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Normal.JPG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/NormalMapWorldSpaceMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/NormalMapWorldSpaceMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapWorldSpace.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapWorldSpace.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-RampTexture.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-RampTexture.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter5-SimpleShader.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter5-SimpleShader.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffusePixelLevel.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffusePixelLevel.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffuseVertexLevel.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-DiffuseVertexLevel.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-HalfLambert.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-HalfLambert.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularPixelLevel.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularPixelLevel.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularVertexLevel.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter6-SpecularVertexLevel.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapTangentSpace.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-NormalMapTangentSpace.shader" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +141,8 @@
       <workItem from="1713434659280" duration="9000" />
       <workItem from="1713434696286" duration="1941000" />
       <workItem from="1713518163474" duration="4860000" />
-      <workItem from="1713777763289" duration="9166000" />
+      <workItem from="1713777763289" duration="9680000" />
+      <workItem from="1713947686245" duration="5246000" />
     </task>
     <servers />
   </component>
