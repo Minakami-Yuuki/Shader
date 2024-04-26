@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MaskTextureMat
-  m_Shader: {fileID: 4800000, guid: 328f2ab53a2e03d47a91518153a99175, type: 3}
+  m_Name: AlphaBlendMat
+  m_Shader: {fileID: 4800000, guid: 7dea281490588924393524fc5094543c, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -23,25 +23,13 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: af14e0540812cc84183c0a7f11c12b00, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 565e9c47a40cece4aa98a2425d708192, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SpecularMask:
-        m_Texture: {fileID: 2800000, guid: 783b246fdad5c3c45988035e3e459589, type: 3}
+        m_Texture: {fileID: 2800000, guid: 9a71d3d66d3ab1e43bf874307570f3e5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BumpScale: 1
-    - _BumpSclae: 1
-    - _Gloss: 20
-    - _SpecularScale: 8
+    - _AlphaScale: 0.8
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Specular: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

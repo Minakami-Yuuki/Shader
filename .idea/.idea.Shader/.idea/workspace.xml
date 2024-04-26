@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-MaskTexture.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-MaskTexture.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Specular.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Specular.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/AlphaBlendMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/AlphaBlendMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/AlphaTestMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/AlphaTestMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter8.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaBlend.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaBlend.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaTest.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter8/Chapter8-AlphaTest.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter8.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter8/transparent_texture.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter8/transparent_texture.psd.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/MaskTextureMat.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-MaskTexture.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shader/Chapter7/Chapter7-MaskTexture.shader" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +152,7 @@
       <workItem from="1713777763289" duration="9680000" />
       <workItem from="1713947686245" duration="5667000" />
       <workItem from="1713957066153" duration="2740000" />
+      <workItem from="1714122764908" duration="4116000" />
     </task>
     <servers />
   </component>
