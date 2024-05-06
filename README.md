@@ -52,3 +52,7 @@
 #### AlphaBlendBothSided:		<img src="./Pictures/image-20240430183435292.png" alt="image-20240430183435292" style="zoom:50%;" />
 
 #### ForwardRenderingMat:	   <img src="./Pictures/image-20240430183515244.png" alt="image-20240430183515244" style="zoom:50%;" />
+
+#### Shadow_Attenuation:		  <img src="./Pictures/image-20240506210309788.png" alt="image-20240506210309788" style="zoom:50%;" />
+
+#### Teapot_Cubemap:				 <img src="./Pictures/image-20240506210221787.png" alt="image-20240506210221787" style="zoom:50%;" />
