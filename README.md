@@ -55,4 +55,12 @@
 
 #### Shadow_Attenuation:		  <img src="./Pictures/image-20240506210309788.png" alt="image-20240506210309788" style="zoom:50%;" />
 
-#### Teapot_Cubemap:				 <img src="./Pictures/image-20240506210221787.png" alt="image-20240506210221787" style="zoom:50%;" />
+#### TeapotReflection:				 <img src="./Pictures/image-20240506210221787.png" alt="image-20240506210221787" style="zoom:50%;" />
+
+#### TeapotRefraction:				<img src="./Pictures/image-20240507181011345.png" alt="image-20240507181011345" style="zoom:50%;" />
+
+#### TeapotFresnel:					  <img src="./Pictures/image-20240507180959399.png" alt="image-20240507180959399" style="zoom:50%;" />
+
+#### Mirror:									 <img src="./Pictures/image-20240507203832648.png" alt="image-20240507203832648" style="zoom:50%;" />
+
+#### GlassRefractionMat:			<img src="./Pictures/image-20240507203951147.png" alt="image-20240507203951147" style="zoom:50%;" />
