@@ -64,3 +64,9 @@
 #### Mirror:									 <img src="./Pictures/image-20240507203832648.png" alt="image-20240507203832648" style="zoom:50%;" />
 
 #### GlassRefractionMat:			<img src="./Pictures/image-20240507203951147.png" alt="image-20240507203951147" style="zoom:50%;" />
+
+#### ProcedrualTexture:			  <img src="./Pictures/image-20240508162508796.png" alt="image-20240508162508796" style="zoom:50%;" />
+
+#### ImageSequenceAnimation:<img src="./Pictures/image-20240508170447572.png" alt="image-20240508170447572" style="zoom:50%;" />
+
+#### ScrollingBackground:		   <img src="./Pictures/image-20240508173111819.png" alt="image-20240508173111819" style="zoom:50%;" />

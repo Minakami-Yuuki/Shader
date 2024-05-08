@@ -5,67 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/FresnelMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/FresnelMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/GlassRefractionMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/GlassRefractionMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/MirrorMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/MirrorMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/RefractionMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/RefractionMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Wall03_Diffuse.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/Wall03_Diffuse.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1Settings.lighting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1Settings.lighting.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2Settings.lighting" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2Settings.lighting.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RotateAround.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RotateAround.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-Fresnel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-Fresnel.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-GlassRefraction.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-GlassRefraction.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-Mirror.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-Mirror.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter10/Chapter10-Refraction.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Cubemap.cubemap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Cubemap.cubemap.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Diffuse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Diffuse.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Normal.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/MirrorTexture.renderTexture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/MirrorTexture.renderTexture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall01_Diffuse.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall01_Diffuse.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall01_Normal.tga" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall01_Normal.tga.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall02_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall02_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall02_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall02_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall03_Diffuse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall03_Diffuse.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall03_Normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall03_Normal.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall04_Diffuse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall04_Diffuse.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall05_Diffuse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall05_Diffuse.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall05_Normal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Wall05_Normal.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/image-20240507180820280.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/image-20240507180911652.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/image-20240507180959399.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/image-20240507181011345.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/ImageSequenceAnimationMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/ImageSequenceAnimationMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/CubemapFraction.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/CubemapFraction.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/CubemapFraction_Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/CubemapFraction_Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Mirror.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Mirror.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Mirror_Settings.lighting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Mirror_Settings.lighting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Skybox.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Skybox.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProceduralTextureGeneration.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ProceduralTextureGeneration.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11/Chapter11-ScrollingBackground.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11/Chapter11-ScrollingBackground.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11/ScrollingBackgroundMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11/ScrollingBackgroundMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/boom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/boom.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/image-20240508162508796.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/image-20240508170447572.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Chapter10-Skybox.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Chapter10-Skybox.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/SingleTextureMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/SingleTextureMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Chapter10-Skybox.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Chapter10-Skybox.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1Settings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_1Settings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2Settings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2Settings.lighting.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +128,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <method v="2" />
     </configuration>
-    <configuration name="附加到 Unity 编辑器并运行" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="附加到 Unity 编辑器" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
@@ -157,7 +138,7 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="附加到 Unity 编辑器" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="附加到 Unity 编辑器并运行" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
@@ -202,7 +183,8 @@
       <workItem from="1714287043563" duration="6209000" />
       <workItem from="1714295446570" duration="650000" />
       <workItem from="1714988697594" duration="8323000" />
-      <workItem from="1715073239065" duration="7506000" />
+      <workItem from="1715073239065" duration="8325000" />
+      <workItem from="1715157083372" duration="3284000" />
     </task>
     <servers />
   </component>
