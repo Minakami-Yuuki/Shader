@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11/Chapter11-Water.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter11/Chapter11-Water.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/WaterMat1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/WaterMat1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/WaterMat2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/WaterMat2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/WaterMat3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/WaterMat3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/image-20240510181242191.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/WaterMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/WaterMat.mat.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +155,8 @@
       <workItem from="1714988697594" duration="8323000" />
       <workItem from="1715073239065" duration="8325000" />
       <workItem from="1715157083372" duration="3576000" />
-      <workItem from="1715248386700" duration="2144000" />
+      <workItem from="1715248386700" duration="2470000" />
+      <workItem from="1715335406066" duration="1407000" />
     </task>
     <servers />
   </component>

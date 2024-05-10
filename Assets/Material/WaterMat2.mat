@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: WaterMat
+  m_Name: WaterMat2
   m_Shader: {fileID: 4800000, guid: 92ce625df0df7684ca3fb892e4df6ad3, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -29,10 +29,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Frequency: 1
-    - _InvWaveLength: 10
-    - _Magnitude: 1
-    - _Speed: 0.5
+    - _Frequency: -4
+    - _InvWaveLength: 3.5
+    - _Magnitude: 0.15
+    - _Speed: -0.35
     m_Colors:
-    - _Color: {r: 0.72611594, g: 0.6745283, b: 1, a: 1}
+    - _Color: {r: 0.5896226, g: 1, b: 0.9252022, a: 1}
   m_BuildTextureStacks: []
