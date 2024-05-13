@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../Plugins/ShaderReference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Assets/SetProperty" vcs="Git" />
   </component>
 </project>

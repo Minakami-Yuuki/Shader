@@ -74,3 +74,7 @@
 #### WaterWave:							<img src="./Pictures/image-20240510181242191.png" alt="image-20240510181242191" style="zoom:50%;" />
 
 #### StarBillboard:						 <img src="./Pictures/image-20240511175541492.png" alt="image-20240511175541492" style="zoom:50%;" />
+
+#### Brightness_Saturation_Contrast:
+
+​																<img src="./Pictures/image-20240513201151233.png" alt="image-20240513201151233" style="zoom:50%;" />
