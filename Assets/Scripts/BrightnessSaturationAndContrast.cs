@@ -7,7 +7,7 @@ public class BrightnessSaturationAndContrast : PostEffectsBase
     // 实现后处理的材质
     public Material briSatConMaterial;
 
-    // 初始化创建Material
+    // 自动初始化创建Material
     public Material material
     {
         get

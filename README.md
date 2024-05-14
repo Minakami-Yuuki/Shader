@@ -78,3 +78,5 @@
 #### Brightness_Saturation_Contrast:
 
 ​																<img src="./Pictures/image-20240513201151233.png" alt="image-20240513201151233" style="zoom:50%;" />
+
+#### Sobel_EdgeDetection:		  <img src="./Pictures/image-20240514204212777.png" alt="image-20240514204212777" style="zoom:50%;" />
