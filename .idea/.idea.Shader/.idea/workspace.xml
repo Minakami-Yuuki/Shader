@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter12/EdgeDetection.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter12/EdgeDetection.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GaussianBlur.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GaussianBlur.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter12/GaussianBlur.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter12/GaussianBlur.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/image-20240515172305240.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BrightnessSaturationAndContrast.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BrightnessSaturationAndContrast.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +157,8 @@
       <workItem from="1715419522170" duration="1797000" />
       <workItem from="1715595559333" duration="3526000" />
       <workItem from="1715679554454" duration="792000" />
-      <workItem from="1715687105947" duration="2705000" />
+      <workItem from="1715687105947" duration="3424000" />
+      <workItem from="1715762916940" duration="7519000" />
     </task>
     <servers />
   </component>

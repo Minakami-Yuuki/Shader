@@ -150,3 +150,11 @@
 #### <img src="./Pictures/image-20240514204544956.png" alt="image-20240514204544956" style="zoom:50%;" />
 
 #### <img src="./Pictures/image-20240514204212777.png" alt="image-20240514204212777" style="zoom:50%;" />
+
+#### GaussianBlur:
+
+#### <img src="./Pictures/image-20240515172305240.png" alt="image-20240515172305240" style="zoom:50%;" />
+
+#### Bloom:
+
+#### <img src="./Pictures/image-20240515192725663.png" alt="image-20240515192725663" style="zoom:50%;" />
