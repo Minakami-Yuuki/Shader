@@ -158,3 +158,7 @@
 #### Bloom:
 
 #### <img src="./Pictures/image-20240515192725663.png" alt="image-20240515192725663" style="zoom:50%;" />
+
+#### MotionBlur:
+
+#### <img src="./Pictures/image-20240520200312503.png" alt="image-20240520200312503" style="zoom:50%;" />

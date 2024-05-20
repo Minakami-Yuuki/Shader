@@ -42,7 +42,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Distortion: 50
-    - _RefractAmount: 0.6
+    - _RefractAmount: 0
     - _RefractionAmount: 1
     m_Colors: []
   m_BuildTextureStacks: []
