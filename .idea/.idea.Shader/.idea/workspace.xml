@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Material/ToonShadingMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/ToonShadingMat.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MotionBlurWithDepthTexture.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MotionBlurWithDepthTexture.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateAround.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="SWEA" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -155,7 +160,9 @@
       <workItem from="1715762916940" duration="7519000" />
       <workItem from="1716205855376" duration="872000" />
       <workItem from="1716273073218" duration="2522000" />
-      <workItem from="1716285238101" duration="842000" />
+      <workItem from="1716285238101" duration="1441000" />
+      <workItem from="1716809362582" duration="136000" />
+      <workItem from="1716809510453" duration="2864000" />
     </task>
     <servers />
   </component>
