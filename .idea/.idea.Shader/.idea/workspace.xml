@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/ToonShadingMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/ToonShadingMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/HatchingMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Material/HatchingMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/TeddyBear.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/TeddyBear.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter14/Hatching.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_0.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_1.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_3.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_4.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_5.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/paper.jpg.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +179,8 @@
       <workItem from="1716273073218" duration="2522000" />
       <workItem from="1716285238101" duration="1441000" />
       <workItem from="1716809362582" duration="136000" />
-      <workItem from="1716809510453" duration="2864000" />
+      <workItem from="1716809510453" duration="3091000" />
+      <workItem from="1716983949000" duration="1840000" />
     </task>
     <servers />
   </component>

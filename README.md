@@ -174,3 +174,7 @@
 #### ToonShading:
 
 #### <img src="./Pictures/image-20240527202232272.png" alt="image-20240527202232272" style="zoom:50%;" />
+
+#### Hatching:
+
+#### <img src="./Pictures/image-20240529203703930.png" alt="image-20240529203703930" style="zoom:50%;" />
