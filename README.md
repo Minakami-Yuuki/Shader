@@ -178,3 +178,7 @@
 #### Hatching:
 
 #### <img src="./Pictures/image-20240529203703930.png" alt="image-20240529203703930" style="zoom:50%;" />
+
+#### Dissolve:
+
+#### <img src="./Pictures/image-20240603200636631.png" alt="image-20240603200636631" style="zoom:50%;" />

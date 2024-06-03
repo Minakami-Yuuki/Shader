@@ -5,29 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535f7c13-9b0d-4c57-ae04-6daed7ba64e3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Material/HatchingMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Material/HatchingMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/TeddyBear.fbx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Model/TeddyBear.fbx.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter14/Hatching.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_0.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_1.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_2.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_3.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_4.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_5.jpg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/paper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/paper.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shader/Chapter15.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Cubemap.cubemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Cubemap.cubemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/burn_noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/burn_noise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/fog_noise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/fog_noise.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/water_noise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/water_noise.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AutoStreamingSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shader/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.changes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.plastic/plastic.changes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/.plastic/plastic.wktree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/DefaultScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
 }</component>
   <component name="RunManager" selected="独立播放器.Start Unity">
     <configuration name="启动 Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\unity\Unity 2020.3.40f1\Editor\2022.3.17f1c1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="D:\unity\Unity 2020.3.40f1\Editor\2020.3.40f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;D:\unity\Unity 2020.3.40f1\Project\Shader&quot; -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\unity\Unity 2020.3.40f1\Project\Shader" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -104,7 +106,7 @@
       <method v="2" />
     </configuration>
     <configuration name="单元测试(批处理模式)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="D:\unity\Unity 2020.3.40f1\Editor\2022.3.17f1c1\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="D:\unity\Unity 2020.3.40f1\Editor\2020.3.40f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;D:\unity\Unity 2020.3.40f1\Project\Shader&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="D:\unity\Unity 2020.3.40f1\Project\Shader" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -180,7 +182,8 @@
       <workItem from="1716285238101" duration="1441000" />
       <workItem from="1716809362582" duration="136000" />
       <workItem from="1716809510453" duration="3091000" />
-      <workItem from="1716983949000" duration="1840000" />
+      <workItem from="1716983949000" duration="2322000" />
+      <workItem from="1717409003021" duration="4102000" />
     </task>
     <servers />
   </component>
