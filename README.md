@@ -186,3 +186,7 @@
 #### WaterWave:
 
 #### <img src="./Pictures/image-20240607181115503.png" alt="image-20240607181115503" style="zoom:50%;" />
+
+#### FogWithNoise:
+
+#### <img src="./Pictures/image-20240613183029467.png" alt="image-20240613183029467" style="zoom:50%;" />
