@@ -798,8 +798,7 @@ GameObject:
   - component: {fileID: 1838242756}
   - component: {fileID: 1838242754}
   - component: {fileID: 1838242753}
-  - component: {fileID: 1838242758}
-  - component: {fileID: 1838242760}
+  - component: {fileID: 1838242755}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -823,6 +822,27 @@ Behaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1838242752}
   m_Enabled: 1
+--- !u!114 &1838242755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838242752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 895ce4519c940f543835da8cff1f5c38, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fogShader: {fileID: 4800000, guid: 063fde451c0a2774eb6bc940efe9699b, type: 3}
+  fogDensity: 1
+  fogColor: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 1}
+  fogStart: -1.5
+  fogEnd: 3
+  noiseTexture: {fileID: 2800000, guid: 47cdda17bb08a47b0a50675cbb83cfa2, type: 3}
+  fogXSpeed: -0.3
+  fogYSpeed: -0.1
+  noiseAmount: 1.8
 --- !u!20 &1838242756
 Camera:
   m_ObjectHideFlags: 0
@@ -880,48 +900,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1838242758
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1838242752}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6262b249477404e2b8bec7e6c0b4c777, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fogShader: {fileID: 4800000, guid: 27a249077a6d3441ba02e316f2431e8f, type: 3}
-  fogDensity: 1
-  fogColor:
-    r: 0.7058823
-    g: 0.70183134
-    b: 0.6955017
-    a: 1
-  fogStart: -1.5
-  fogEnd: 3
-  noiseTexture: {fileID: 2800000, guid: 47cdda17bb08a47b0a50675cbb83cfa2, type: 3}
-  fogXSpeed: -0.05
-  fogYSpeed: 0.05
-  noiseAmount: 1
---- !u!114 &1838242760
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1838242752}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 131048bc4f9714798b11c61e7521016f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 5
-  startPoint: {x: 0, y: 1, z: -11}
-  endPoint: {x: 0, y: 4, z: -11}
-  lookAt: {x: 0, y: -0.4, z: -1.5}
-  pingpong: 1
 --- !u!1 &1927954593
 GameObject:
   m_ObjectHideFlags: 0
