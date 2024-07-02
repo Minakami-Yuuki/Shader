@@ -190,3 +190,7 @@
 #### FogWithNoise:
 
 #### <img src="./Pictures/image-20240613183029467.png" alt="image-20240613183029467" style="zoom:50%;" />
+
+#### Rotary Star:
+
+#### <img src="./Pictures/image-20240702150145193.png" alt="image-20240702150145193" style="zoom:50%;" />
